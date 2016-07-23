@@ -1,0 +1,26 @@
+{
+  "name": "make-the-web-great-again",
+  "version": "1.0.0",
+  "description": "Chrome Extension that Makes the Web Great Again",
+  "main": "makeItGreat.js",
+  "scripts": {
+    "test": "eslint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uncompiled/make-the-web-great-again.git"
+  },
+  "keywords": [
+    "Chrome Extension",
+    "Trump-Pence"
+  ],
+  "author": "Chris Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uncompiled/make-the-web-great-again/issues"
+  },
+  "homepage": "https://github.com/uncompiled/make-the-web-great-again#readme",
+  "devDependencies": {
+    "eslint": "^3.1.1"
+  }
+}
